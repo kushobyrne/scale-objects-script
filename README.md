@@ -7,4 +7,4 @@ A micro-script for After Effects that randomly scales your selected layers.
 3) Restart After Effects
 4) Script is launchable from File->Scripts->scaleObj.jsx
 
-###Happy Scaling!
+### Happy Scaling!
